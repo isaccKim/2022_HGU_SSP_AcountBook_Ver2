@@ -14,6 +14,7 @@
         <tr><td>할부방법</td><td><input type="text" name= "installment"/></td></tr>
     </table>
     <button type="button" onclick="location.href='list'">목록보기</button>
+    <input type='reset'>
     <button type="submit">등록하기</button>
 </form>
 <body>
